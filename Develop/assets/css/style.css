@@ -146,13 +146,13 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #51bff8;
 }
 
 /* benefits lead section */
 .benefit-lead {
     margin-bottom: 32px;
-    color: #050606;
+    color: #ffffff;
 }
 
 .benefit-lead h3 {
@@ -169,7 +169,7 @@ p {
 /* benefits brand section */
 .benefit-brand {
     margin-bottom: 32px;
-    color: #050606;
+    color: #ffffff;
 }
 
 .benefit-brand h3 {
@@ -186,7 +186,7 @@ p {
 /* benefits cost section */
 .benefit-cost {
     margin-bottom: 32px;
-    color: #050606;
+    color: #ffffff;
 }
 
 .benefit-cost h3 {
